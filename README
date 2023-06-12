@@ -1,0 +1,12 @@
+
+# Code Refactor Starter Code
+ The Webpage Horiseon presented for refactoring with starter code, the code was refactored to improve code readability and functionality.
+ The view of the HTML page has semantics HTML elements that represent the webpage content so anyone code reviewer can follow the HTML layout easily.
+ The HTML semantic elements label follow a certain standard of naming the tags appropriately. i.e. the tags names have to correspond with text or image view on the webpage and the purpose of the HTML function related to the webpage.
+ The HTMl elements follow a logical layout which is not influenced by the styling or positioning code structure. The tags structure only purpose is to help layout the webpage in a cohesive manner and enable functionality
+ The images should follow the same structure as the tags in layout and naming to enable HTML to arrange the images as laid out in the original webpage
+ Each image tag consist of a reliable source that the file can easily access the source and layout on the webpage but also the tag have an alt or 'alternative' to the source if the code cannot access the original source
+ The heading are arranged sequentially both in HTML and CSS and named appropriately. This will allow the code reviewer to follow the webpage code sequentially if there is any need to review or correct some elements.
+ The title elements are consice and un edited. The webpage if reviewed and corrected, should have the same web content as the original page. The title are also worded in an explanatory way, the title meaning is meant to give the webpage reader access to the meaning of the content under the header.
+ when the code was refactored there were several changes that were made in naming the tags and the number of tags connected to the styling component in css. I included styling tags in css for each element in the HTML so as to enable future code reviewers to refactor each element independetly.
+ 
