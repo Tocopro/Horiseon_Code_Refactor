@@ -9,4 +9,13 @@
  The heading are arranged sequentially both in HTML and CSS and named appropriately. This will allow the code reviewer to follow the webpage code sequentially if there is any need to review or correct some elements.
  The title elements are consice and un edited. The webpage if reviewed and corrected, should have the same web content as the original page. The title are also worded in an explanatory way, the title meaning is meant to give the webpage reader access to the meaning of the content under the header.
  when the code was refactored there were several changes that were made in naming the tags and the number of tags connected to the styling component in css. I included styling tags in css for each element in the HTML so as to enable future code reviewers to refactor each element independetly.
- 
+
+
+ Un Refactored Horiseon webPage
+ Horiseone before Reactoring.png 
+
+
+Refactored Horiseon Webpage 
+Horiseon After Refactoring.png
+
+
